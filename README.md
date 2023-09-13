@@ -14,6 +14,12 @@ This fork does not add any content changes, extensions, or features. The project
 ## Release Notes
 **Note:** *NR= No Release*
 
+###### Godot Engine Case Simulator 20230914 godotv4.1.1
+
+* Engine upgrade from `v3.X` to `v4.1.1.stable.flathub [bd6af8e0e]`
+* Export error in Case.gd has been fixed. The old command remains in the code for documentation purposes, but excluded. (Old command: `@export (Array, Texture2D) var blue_items` New Command: `@export var blue_items :Array[Texture2D]`)
+* README.md edited.
+
 ###### Godot Engine Case Simulator 20230914 godot3.X
 
 * Creation of the repository.
@@ -27,9 +33,9 @@ Author (Base): <a href="https://github.com/mberkdemir">mberkdemir</A>
 
 mberkdemir's License: n.A.
 
-Monstanner's License: <a href="https://github.com/Monstanner/godot-casesimulator/blob/godot3.X/LICENSE"><strong>GPL 3.0</strong></a>
+Monstanner's License: <a href="https://codeberg.org/Monstanner/godot-casesimulator/src/branch/main/LICENSE"><strong>GPL 3.0</strong></a>
 
-This repository: https://github.com/Monstanner/godot-casesimulator
+This repository: https://codeberg.org/Monstanner/godot-casesimulator/
 
 Base repository: https://github.com/mberkdemir/godot-casesimulator
 
