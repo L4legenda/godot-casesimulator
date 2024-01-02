@@ -14,6 +14,11 @@ This fork does not add any content changes, extensions, or features. The project
 ## Release Notes
 **Note:** *NR= No Release*
 
+###### Godot Engine Case Simulator 20240102 godot4.2.1
+
+* Engine upgrade from `v4.2.stable.flathub [46dc27791]` to `v4.2.1.stable.flathub [b09f793f5]`
+* README.md edited.
+
 ###### Godot Engine Case Simulator 20231202 godot4.2
 
 * Engine upgrade from `v4.1.3.stable.flathub [f06b6836a]` to `v4.2.stable.flathub [46dc27791]`
@@ -22,11 +27,6 @@ This fork does not add any content changes, extensions, or features. The project
 ###### Godot Engine Case Simulator 20231114 godot4.1.3
 
 * Engine upgrade from `v4.1.2.stable.flathub [399c9dc39]` to `v4.1.3.stable.flathub [f06b6836a]`
-* README.md edited.
-
-###### Godot Engine Case Simulator 20231114 godot4.1.2
-
-* Engine upgrade from `v4.1.1.stable.flathub [bd6af8e0e]` to `v4.1.2.stable.flathub [399c9dc39]`
 * README.md edited.
 
 ###### Godot Engine Case Simulator 20231014 godot4.1.2
